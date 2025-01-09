@@ -1,0 +1,25 @@
+unctions:-
+function is a non-primitive data type.
+-function can be reusable.
+
+syntax:-
+ -function function_name(optional parameters){//function
+ //function statements
+ }
+
+ Types of functions:-
+ 1.named functions:- function which is having a name and invoked with the same name
+ 2.anonymous function:-function which doesnot have a name to declare with
+ 3.function expression:- anonymous functions
+ 4.immediate invoke function expression(ife)
+ 5.Arrow function:- it is used to concise the normal function syntax.
+ 6.Higher order function
+ 7.Callnback function 
+    -closure
+
+
+note:-
+-current version of js is es14.
+-es6 is stable version
+-es-EXMA script
+ECMA- european
