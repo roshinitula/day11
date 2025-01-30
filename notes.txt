@@ -39,3 +39,7 @@ Asynchrnous in javaScript:-
 4.async & await
 
 note:- by default, javascript is sunchronous(single threaded)
+
+
+  Q:take an array of employe object where each object contains properties such as empID,empName,empCompany,empSalary,empAdress where empAddress is futher having two more properties of objects such as empCity and EmpArea
+ print these properties in form of a table on the ui by using javascript
